@@ -6,8 +6,8 @@ import sys, getopt
 args = sys.argv
 print(args)
 
-filepath = '/home/t/Documents/Accounting/PDF/2020-05-26_Statement.pdf'
-outfile = '/home/t/Documents/Accounting/CSV/report.csv'
+filepath = ''
+outfile = ''
 outCSV=''
 filepath=args[1]
 
